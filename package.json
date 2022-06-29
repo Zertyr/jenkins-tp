@@ -1,0 +1,17 @@
+{
+  "name": "aston-pendu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cucumber-js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^4.2.1"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^8.3.1"
+  }
+}
