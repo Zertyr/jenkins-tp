@@ -34,4 +34,4 @@ const assert = require('assert');
 const { Given, When, Then } = require('@cucumber/cucumber');
 ```
 
-changement de readMe pour la scrutation de jenkins
+changement de readMe pour la scrutation de jenkin
